@@ -63,6 +63,11 @@ h6 {
     padding: 5% 20%;
 }
 
+.photo-wide {
+    width: 100%;
+    padding: 5% 5%;
+}
+
 .img-centered {
     margin: 0 auto;
 }
