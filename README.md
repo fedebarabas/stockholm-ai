@@ -67,6 +67,11 @@ and hold your thumbs that the height will be relatively sane.
 ls img/category | xargs file
 ```
 
+## Optimize jpg by size
+```
+    jpegoptim --size=250k --dest=output.jpg input.jpg
+```
+
 # Logo
 https://fedoraproject.org/wiki/Montserrat_Fonts
 ## Install the used font (Fedora)
